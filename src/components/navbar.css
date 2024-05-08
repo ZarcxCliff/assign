@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar logo {
+    width: 100px;
+    height: 100px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+ul li {
+    padding: 10px;
+    margin: 10px;
+}
+button {
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.logo {
+    font-weight: 500;
+    font-size: 26px;
+}

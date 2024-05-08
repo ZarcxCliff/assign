@@ -1,0 +1,8 @@
+p {
+    display: flex;
+    text-align: left;
+}
+
+img {
+    object-fit: cover;
+}
